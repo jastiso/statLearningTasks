@@ -1,0 +1,20 @@
+0.0000 	DATA 	** START exposure **
+0.0043 	DATA 	Trial 1 - Stimuli img/target_8.png
+0.6317 	DATA 	Keypress: i
+0.7133 	DATA 	Trial 2 - Stimuli img/target_1.png
+1.1923 	DATA 	Keypress: r
+1.9757 	DATA 	Mouse: Left button down, pos=(94,0)
+2.2193 	DATA 	Mouse:  Left button up, pos=(94,0)
+2.4135 	DATA 	Mouse: Left button down, pos=(0,567)
+2.6413 	DATA 	Mouse:  Left button up, pos=(0,575)
+3.2557 	DATA 	Keypress: q
+3.3289 	DATA 	Trial 3 - Stimuli img/target_6.png
+3.7997 	DATA 	Keypress: b
+3.8954 	DATA 	Trial 4 - Stimuli img/target_1.png
+4.0477 	DATA 	Keypress: b
+4.2403 	DATA 	Keypress: space
+4.8880 	DATA 	Keypress: escape
+5.7041 	DATA 	Keypress: escape
+6.6237 	DATA 	Keypress: q
+6.6961 	DATA 	Trial 5 - Stimuli img/target_6.png
+6.8799 	DATA 	Keypress: escape

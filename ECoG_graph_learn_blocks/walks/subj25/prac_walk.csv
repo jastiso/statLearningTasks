@@ -1,0 +1,11 @@
+pID,trialNum,walk,resp,path
+25,1,1,e,img/target_3_prac.png
+25,2,2,p,img/target_10_prac.png
+25,3,3,q,img/target_1_prac.png
+25,4,4,v,img/target_5_prac.png
+25,5,5,o,img/target_9_prac.png
+25,6,6,u,img/target_7_prac.png
+25,7,7,i,img/target_8_prac.png
+25,8,8,w,img/target_2_prac.png
+25,9,9,b,img/target_6_prac.png
+25,10,10,r,img/target_4_prac.png

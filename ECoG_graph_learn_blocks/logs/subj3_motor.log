@@ -1,0 +1,1044 @@
+0.0000 	DATA 	** START exposure **
+0.0045 	DATA 	Trial 1 - Stimuli img/target_2.png
+2.3381 	DATA 	Keypress: q
+9.9290 	DATA 	Keypress: w
+10.0079 	DATA 	Trial 2 - Stimuli img/target_9.png
+15.1697 	DATA 	Keypress: o
+15.2585 	DATA 	Trial 3 - Stimuli img/target_5.png
+18.6327 	DATA 	Keypress: v
+18.7257 	DATA 	Trial 4 - Stimuli img/target_9.png
+22.9935 	DATA 	Keypress: o
+23.0756 	DATA 	Trial 5 - Stimuli img/target_2.png
+26.4171 	DATA 	Keypress: w
+26.5095 	DATA 	Trial 6 - Stimuli img/target_4.png
+28.4406 	DATA 	Keypress: r
+28.5264 	DATA 	Trial 7 - Stimuli img/target_6.png
+43.8403 	DATA 	Keypress: n
+46.9446 	DATA 	Keypress: b
+47.0108 	DATA 	Trial 8 - Stimuli img/target_4.png
+52.9598 	DATA 	Keypress: r
+53.0451 	DATA 	Trial 9 - Stimuli img/target_3.png
+55.4476 	DATA 	Keypress: e
+55.5293 	DATA 	Trial 10 - Stimuli img/target_8.png
+59.3915 	DATA 	Keypress: i
+59.4785 	DATA 	Trial 11 - Stimuli img/target_7.png
+60.6392 	DATA 	Keypress: u
+60.7298 	DATA 	Trial 12 - Stimuli img/target_3.png
+64.1033 	DATA 	Keypress: e
+64.1963 	DATA 	Trial 13 - Stimuli img/target_1.png
+66.4400 	DATA 	Keypress: q
+66.5292 	DATA 	Trial 14 - Stimuli img/target_10.png
+69.8712 	DATA 	Keypress: p
+69.9637 	DATA 	Trial 15 - Stimuli img/target_5.png
+86.3506 	DATA 	Keypress: v
+86.4310 	DATA 	Trial 16 - Stimuli img/target_1.png
+88.3752 	DATA 	Keypress: q
+88.4651 	DATA 	Trial 17 - Stimuli img/target_10.png
+90.4873 	DATA 	Keypress: p
+90.5826 	DATA 	Trial 18 - Stimuli img/target_6.png
+93.5105 	DATA 	Keypress: b
+93.5985 	DATA 	Trial 19 - Stimuli img/target_2.png
+96.5669 	DATA 	Keypress: w
+96.6484 	DATA 	Trial 20 - Stimuli img/target_4.png
+98.9503 	DATA 	Keypress: r
+99.0334 	DATA 	Trial 21 - Stimuli img/target_2.png
+103.4301 	DATA 	Keypress: w
+103.5172 	DATA 	Trial 22 - Stimuli img/target_4.png
+103.6949 	DATA 	Keypress: w
+120.1497 	DATA 	Keypress: r
+120.2182 	DATA 	Trial 23 - Stimuli img/target_2.png
+127.9579 	DATA 	Keypress: w
+128.0525 	DATA 	Trial 24 - Stimuli img/target_6.png
+132.2853 	DATA 	Keypress: r
+140.8690 	DATA 	Keypress: b
+140.9367 	DATA 	Trial 25 - Stimuli img/target_9.png
+142.7488 	DATA 	Keypress: o
+142.8367 	DATA 	Trial 26 - Stimuli img/target_10.png
+144.1727 	DATA 	Keypress: p
+144.2539 	DATA 	Trial 27 - Stimuli img/target_9.png
+145.2926 	DATA 	Keypress: o
+145.3881 	DATA 	Trial 28 - Stimuli img/target_10.png
+146.4616 	DATA 	Keypress: p
+146.5554 	DATA 	Trial 29 - Stimuli img/target_9.png
+147.3085 	DATA 	Keypress: o
+147.4037 	DATA 	Trial 30 - Stimuli img/target_10.png
+148.2613 	DATA 	Keypress: o
+159.8290 	DATA 	Keypress: p
+159.9055 	DATA 	Trial 31 - Stimuli img/target_9.png
+161.6042 	DATA 	Keypress: o
+161.6886 	DATA 	Trial 32 - Stimuli img/target_2.png
+164.6849 	DATA 	Keypress: w
+164.7733 	DATA 	Trial 33 - Stimuli img/target_7.png
+167.7889 	DATA 	Keypress: u
+167.8735 	DATA 	Trial 34 - Stimuli img/target_3.png
+170.4599 	DATA 	Keypress: e
+170.5404 	DATA 	Trial 35 - Stimuli img/target_1.png
+173.0763 	DATA 	Keypress: q
+173.1572 	DATA 	Trial 36 - Stimuli img/target_8.png
+179.2437 	DATA 	Keypress: i
+179.3246 	DATA 	Trial 37 - Stimuli img/target_1.png
+184.0442 	DATA 	Keypress: q
+184.1408 	DATA 	Trial 38 - Stimuli img/target_5.png
+188.5083 	DATA 	Keypress: v
+188.5911 	DATA 	Trial 39 - Stimuli img/target_9.png
+202.8678 	DATA 	Keypress: o
+202.9593 	DATA 	Trial 40 - Stimuli img/target_5.png
+208.0514 	DATA 	Keypress: v
+208.1436 	DATA 	Trial 41 - Stimuli img/target_9.png
+213.5313 	DATA 	Keypress: o
+213.6280 	DATA 	Trial 42 - Stimuli img/target_10.png
+216.7305 	DATA 	Keypress: p
+216.8105 	DATA 	Trial 43 - Stimuli img/target_6.png
+218.7231 	DATA 	Keypress: b
+218.8117 	DATA 	Trial 44 - Stimuli img/target_10.png
+222.8912 	DATA 	Keypress: p
+222.9781 	DATA 	Trial 45 - Stimuli img/target_9.png
+224.9942 	DATA 	Keypress: o
+225.0792 	DATA 	Trial 46 - Stimuli img/target_10.png
+226.3062 	DATA 	Keypress: o
+235.3146 	DATA 	Keypress: p
+235.3806 	DATA 	Trial 47 - Stimuli img/target_1.png
+239.6103 	DATA 	Keypress: q
+239.6971 	DATA 	Trial 48 - Stimuli img/target_10.png
+242.2417 	DATA 	Keypress: p
+242.3307 	DATA 	Trial 49 - Stimuli img/target_6.png
+246.1135 	DATA 	Keypress: b
+246.1982 	DATA 	Trial 50 - Stimuli img/target_4.png
+248.6974 	DATA 	Keypress: r
+248.7812 	DATA 	Trial 51 - Stimuli img/target_7.png
+251.0894 	DATA 	Keypress: u
+251.1820 	DATA 	Trial 52 - Stimuli img/target_3.png
+254.5132 	DATA 	Keypress: e
+254.5977 	DATA 	Trial 53 - Stimuli img/target_4.png
+256.2572 	DATA 	Keypress: r
+256.3489 	DATA 	Trial 54 - Stimuli img/target_3.png
+258.0411 	DATA 	Keypress: e
+258.1322 	DATA 	Trial 55 - Stimuli img/target_4.png
+259.1933 	DATA 	Keypress: r
+259.2827 	DATA 	Trial 56 - Stimuli img/target_7.png
+262.1051 	DATA 	Keypress: u
+262.1996 	DATA 	Trial 57 - Stimuli img/target_4.png
+264.4089 	DATA 	Keypress: r
+264.4993 	DATA 	Trial 58 - Stimuli img/target_2.png
+266.8009 	DATA 	Keypress: w
+266.8824 	DATA 	Trial 59 - Stimuli img/target_9.png
+270.2807 	DATA 	Keypress: o
+270.3669 	DATA 	Trial 60 - Stimuli img/target_5.png
+290.8162 	DATA 	Keypress: v
+290.9022 	DATA 	Trial 61 - Stimuli img/target_9.png
+294.7601 	DATA 	Keypress: o
+294.8529 	DATA 	Trial 62 - Stimuli img/target_6.png
+309.9123 	DATA 	Keypress: b
+310.0034 	DATA 	Trial 63 - Stimuli img/target_4.png
+312.1674 	DATA 	Keypress: r
+312.2550 	DATA 	Trial 64 - Stimuli img/target_2.png
+314.9281 	DATA 	Keypress: w
+315.0212 	DATA 	Trial 65 - Stimuli img/target_7.png
+317.3753 	DATA 	Keypress: u
+317.4712 	DATA 	Trial 66 - Stimuli img/target_3.png
+320.9200 	DATA 	Keypress: r
+326.8158 	DATA 	Keypress: e
+326.8887 	DATA 	Trial 67 - Stimuli img/target_4.png
+329.5108 	DATA 	Keypress: r
+329.6058 	DATA 	Trial 68 - Stimuli img/target_7.png
+331.8307 	DATA 	Keypress: u
+331.9232 	DATA 	Trial 69 - Stimuli img/target_3.png
+335.9513 	DATA 	Keypress: e
+336.0400 	DATA 	Trial 70 - Stimuli img/target_8.png
+344.6304 	DATA 	Keypress: i
+344.7242 	DATA 	Trial 71 - Stimuli img/target_5.png
+348.4551 	DATA 	Keypress: v
+348.5411 	DATA 	Trial 72 - Stimuli img/target_1.png
+350.7509 	DATA 	Keypress: q
+350.8413 	DATA 	Trial 73 - Stimuli img/target_10.png
+352.2945 	DATA 	Keypress: p
+352.3751 	DATA 	Trial 74 - Stimuli img/target_6.png
+355.0862 	DATA 	Keypress: b
+355.1745 	DATA 	Trial 75 - Stimuli img/target_2.png
+356.8784 	DATA 	Keypress: w
+356.9590 	DATA 	Trial 76 - Stimuli img/target_4.png
+359.8619 	DATA 	Keypress: r
+359.9422 	DATA 	Trial 77 - Stimuli img/target_7.png
+362.8137 	DATA 	Keypress: u
+362.9093 	DATA 	Trial 78 - Stimuli img/target_8.png
+370.3816 	DATA 	Keypress: i
+370.4755 	DATA 	Trial 79 - Stimuli img/target_7.png
+372.9904 	DATA 	Keypress: u
+373.0766 	DATA 	Trial 80 - Stimuli img/target_4.png
+374.8621 	DATA 	Keypress: r
+374.9605 	DATA 	Trial 81 - Stimuli img/target_2.png
+376.7893 	DATA 	Keypress: w
+376.8775 	DATA 	Trial 82 - Stimuli img/target_7.png
+379.3101 	DATA 	Keypress: u
+379.3938 	DATA 	Trial 83 - Stimuli img/target_3.png
+383.2611 	DATA 	Keypress: e
+383.3444 	DATA 	Trial 84 - Stimuli img/target_1.png
+385.4852 	DATA 	Keypress: q
+385.5784 	DATA 	Trial 85 - Stimuli img/target_8.png
+387.8691 	DATA 	Keypress: i
+387.9606 	DATA 	Trial 86 - Stimuli img/target_5.png
+390.0058 	DATA 	Keypress: v
+390.0949 	DATA 	Trial 87 - Stimuli img/target_9.png
+393.1009 	DATA 	Keypress: o
+393.1957 	DATA 	Trial 88 - Stimuli img/target_6.png
+396.4849 	DATA 	Keypress: b
+396.5789 	DATA 	Trial 89 - Stimuli img/target_10.png
+398.9655 	DATA 	Keypress: p
+399.0632 	DATA 	Trial 90 - Stimuli img/target_5.png
+402.1892 	DATA 	Keypress: v
+402.2798 	DATA 	Trial 91 - Stimuli img/target_8.png
+405.4773 	DATA 	Keypress: i
+405.5633 	DATA 	Trial 92 - Stimuli img/target_1.png
+407.4690 	DATA 	Keypress: q
+407.5637 	DATA 	Trial 93 - Stimuli img/target_8.png
+410.5411 	DATA 	Keypress: i
+410.6306 	DATA 	Trial 94 - Stimuli img/target_1.png
+413.6530 	DATA 	Keypress: q
+413.7484 	DATA 	Trial 95 - Stimuli img/target_5.png
+415.6129 	DATA 	Keypress: v
+415.6981 	DATA 	Trial 96 - Stimuli img/target_10.png
+417.2848 	DATA 	Keypress: p
+417.3814 	DATA 	Trial 97 - Stimuli img/target_1.png
+421.1327 	DATA 	Keypress: q
+421.2320 	DATA 	Trial 98 - Stimuli img/target_3.png
+428.6198 	DATA 	Keypress: e
+428.7152 	DATA 	Trial 99 - Stimuli img/target_7.png
+436.0044 	DATA 	Keypress: v
+440.5314 	DATA 	Keypress: u
+440.6010 	DATA 	Trial 100 - Stimuli img/target_2.png
+447.1954 	DATA 	Keypress: w
+447.2843 	DATA 	Trial 101 - Stimuli img/target_6.png
+452.0434 	DATA 	Keypress: b
+452.1339 	DATA 	Trial 102 - Stimuli img/target_4.png
+455.0437 	DATA 	Keypress: r
+455.1349 	DATA 	Trial 103 - Stimuli img/target_6.png
+457.1152 	DATA 	Keypress: b
+457.2021 	DATA 	Trial 104 - Stimuli img/target_2.png
+460.4275 	DATA 	Keypress: w
+460.5195 	DATA 	Trial 105 - Stimuli img/target_6.png
+461.8356 	DATA 	Keypress: b
+461.9186 	DATA 	Trial 106 - Stimuli img/target_10.png
+463.6826 	DATA 	Keypress: p
+463.7693 	DATA 	Trial 107 - Stimuli img/target_9.png
+465.7313 	DATA 	Keypress: o
+465.8191 	DATA 	Trial 108 - Stimuli img/target_2.png
+468.9393 	DATA 	Keypress: w
+469.0364 	DATA 	Trial 109 - Stimuli img/target_9.png
+471.2431 	DATA 	Keypress: o
+471.3366 	DATA 	Trial 110 - Stimuli img/target_2.png
+472.1470 	DATA 	Keypress: w
+472.2361 	DATA 	Trial 111 - Stimuli img/target_4.png
+473.7623 	DATA 	Keypress: r
+473.8536 	DATA 	Trial 112 - Stimuli img/target_7.png
+488.1384 	DATA 	Keypress: u
+488.2216 	DATA 	Trial 113 - Stimuli img/target_2.png
+489.8025 	DATA 	Keypress: w
+489.8882 	DATA 	Trial 114 - Stimuli img/target_6.png
+492.1543 	DATA 	Keypress: b
+492.2385 	DATA 	Trial 115 - Stimuli img/target_4.png
+494.1295 	DATA 	Keypress: r
+494.2222 	DATA 	Trial 116 - Stimuli img/target_3.png
+496.2425 	DATA 	Keypress: e
+496.3391 	DATA 	Trial 117 - Stimuli img/target_7.png
+498.7063 	DATA 	Keypress: u
+498.7885 	DATA 	Trial 118 - Stimuli img/target_2.png
+500.4901 	DATA 	Keypress: w
+500.5729 	DATA 	Trial 119 - Stimuli img/target_6.png
+502.2422 	DATA 	Keypress: b
+502.3399 	DATA 	Trial 120 - Stimuli img/target_4.png
+504.1862 	DATA 	Keypress: r
+504.2722 	DATA 	Trial 121 - Stimuli img/target_3.png
+505.7462 	DATA 	Keypress: e
+505.8402 	DATA 	Trial 122 - Stimuli img/target_4.png
+507.2652 	DATA 	Keypress: r
+507.3571 	DATA 	Trial 123 - Stimuli img/target_2.png
+508.9858 	DATA 	Keypress: w
+509.0729 	DATA 	Trial 124 - Stimuli img/target_4.png
+511.9610 	DATA 	Keypress: r
+512.0573 	DATA 	Trial 125 - Stimuli img/target_2.png
+513.1777 	DATA 	Keypress: w
+513.2737 	DATA 	Trial 126 - Stimuli img/target_9.png
+514.7937 	DATA 	Keypress: o
+514.8900 	DATA 	Trial 127 - Stimuli img/target_2.png
+524.0887 	DATA 	Keypress: w
+524.1743 	DATA 	Trial 128 - Stimuli img/target_6.png
+527.0252 	DATA 	Keypress: b
+527.1087 	DATA 	Trial 129 - Stimuli img/target_2.png
+529.2485 	DATA 	Keypress: w
+529.3424 	DATA 	Trial 130 - Stimuli img/target_7.png
+530.7770 	DATA 	Keypress: u
+530.8592 	DATA 	Trial 131 - Stimuli img/target_2.png
+534.6723 	DATA 	Keypress: w
+534.7593 	DATA 	Trial 132 - Stimuli img/target_4.png
+536.6571 	DATA 	Keypress: r
+536.7430 	DATA 	Trial 133 - Stimuli img/target_2.png
+541.5441 	DATA 	Keypress: w
+541.6266 	DATA 	Trial 134 - Stimuli img/target_4.png
+542.5209 	DATA 	Keypress: r
+542.6102 	DATA 	Trial 135 - Stimuli img/target_2.png
+543.7199 	DATA 	Keypress: w
+543.8105 	DATA 	Trial 136 - Stimuli img/target_4.png
+544.5439 	DATA 	Keypress: r
+544.6272 	DATA 	Trial 137 - Stimuli img/target_2.png
+545.4080 	DATA 	Keypress: w
+545.4940 	DATA 	Trial 138 - Stimuli img/target_9.png
+547.4808 	DATA 	Keypress: o
+547.5777 	DATA 	Trial 139 - Stimuli img/target_2.png
+552.3198 	DATA 	Keypress: w
+552.4114 	DATA 	Trial 140 - Stimuli img/target_6.png
+555.1126 	DATA 	Keypress: b
+555.2106 	DATA 	Trial 141 - Stimuli img/target_4.png
+556.7123 	DATA 	Keypress: r
+556.7951 	DATA 	Trial 142 - Stimuli img/target_2.png
+558.6882 	DATA 	Keypress: w
+558.7787 	DATA 	Trial 143 - Stimuli img/target_6.png
+564.0403 	DATA 	Keypress: b
+564.1291 	DATA 	Trial 144 - Stimuli img/target_9.png
+565.5753 	DATA 	Keypress: i
+570.5512 	DATA 	Keypress: o
+570.6289 	DATA 	Trial 145 - Stimuli img/target_2.png
+573.5359 	DATA 	Keypress: w
+573.6300 	DATA 	Trial 146 - Stimuli img/target_6.png
+576.7278 	DATA 	Keypress: b
+576.8128 	DATA 	Trial 147 - Stimuli img/target_4.png
+578.5914 	DATA 	Keypress: r
+578.6796 	DATA 	Trial 148 - Stimuli img/target_6.png
+582.6077 	DATA 	Keypress: b
+582.6977 	DATA 	Trial 149 - Stimuli img/target_9.png
+587.0227 	DATA 	Keypress: o
+587.1138 	DATA 	Trial 150 - Stimuli img/target_6.png
+589.3513 	DATA 	Keypress: b
+589.4466 	DATA 	Trial 151 - Stimuli img/target_4.png
+591.0306 	DATA 	Keypress: r
+591.1153 	DATA 	Trial 152 - Stimuli img/target_6.png
+592.9593 	DATA 	Keypress: b
+593.0486 	DATA 	Trial 153 - Stimuli img/target_9.png
+597.5431 	DATA 	Keypress: o
+597.6316 	DATA 	Trial 154 - Stimuli img/target_10.png
+599.7271 	DATA 	Keypress: p
+599.8157 	DATA 	Trial 155 - Stimuli img/target_6.png
+602.5822 	DATA 	Keypress: b
+602.6653 	DATA 	Trial 156 - Stimuli img/target_2.png
+605.9107 	DATA 	Keypress: w
+605.9990 	DATA 	Trial 157 - Stimuli img/target_6.png
+607.9501 	DATA 	Keypress: b
+608.0326 	DATA 	Trial 158 - Stimuli img/target_2.png
+609.2226 	DATA 	Keypress: w
+609.3175 	DATA 	Trial 159 - Stimuli img/target_9.png
+613.4299 	DATA 	Keypress: o
+613.5173 	DATA 	Trial 160 - Stimuli img/target_5.png
+616.2705 	DATA 	Keypress: v
+616.3675 	DATA 	Trial 161 - Stimuli img/target_1.png
+619.5418 	DATA 	Keypress: q
+619.6348 	DATA 	Trial 162 - Stimuli img/target_8.png
+621.9736 	DATA 	Keypress: i
+622.0682 	DATA 	Trial 163 - Stimuli img/target_7.png
+628.2855 	DATA 	Keypress: q
+634.3817 	DATA 	Keypress: u
+634.4524 	DATA 	Trial 164 - Stimuli img/target_3.png
+637.6380 	DATA 	Keypress: e
+637.7355 	DATA 	Trial 165 - Stimuli img/target_4.png
+648.7649 	DATA 	Keypress: r
+648.8534 	DATA 	Trial 166 - Stimuli img/target_6.png
+651.6695 	DATA 	Keypress: b
+651.7534 	DATA 	Trial 167 - Stimuli img/target_10.png
+655.0534 	DATA 	Keypress: p
+655.1375 	DATA 	Trial 168 - Stimuli img/target_1.png
+656.8052 	DATA 	Keypress: q
+656.8879 	DATA 	Trial 169 - Stimuli img/target_8.png
+662.2922 	DATA 	Keypress: i
+662.3712 	DATA 	Trial 170 - Stimuli img/target_1.png
+665.9091 	DATA 	Keypress: q
+666.0054 	DATA 	Trial 171 - Stimuli img/target_3.png
+668.8760 	DATA 	Keypress: e
+668.9558 	DATA 	Trial 172 - Stimuli img/target_1.png
+670.2441 	DATA 	Keypress: q
+670.3405 	DATA 	Trial 173 - Stimuli img/target_10.png
+673.2765 	DATA 	Keypress: p
+673.3724 	DATA 	Trial 174 - Stimuli img/target_6.png
+676.2920 	DATA 	Keypress: b
+676.3735 	DATA 	Trial 175 - Stimuli img/target_4.png
+680.1083 	DATA 	Keypress: r
+680.2072 	DATA 	Trial 176 - Stimuli img/target_3.png
+681.7876 	DATA 	Keypress: e
+681.8738 	DATA 	Trial 177 - Stimuli img/target_1.png
+683.0995 	DATA 	Keypress: q
+683.1912 	DATA 	Trial 178 - Stimuli img/target_8.png
+684.9476 	DATA 	Keypress: i
+685.0412 	DATA 	Trial 179 - Stimuli img/target_7.png
+686.6282 	DATA 	Keypress: u
+686.7241 	DATA 	Trial 180 - Stimuli img/target_3.png
+690.8761 	DATA 	Keypress: e
+690.9752 	DATA 	Trial 181 - Stimuli img/target_8.png
+693.8119 	DATA 	Keypress: i
+693.9084 	DATA 	Trial 182 - Stimuli img/target_5.png
+696.3233 	DATA 	Keypress: v
+696.4086 	DATA 	Trial 183 - Stimuli img/target_1.png
+698.7079 	DATA 	Keypress: q
+698.7917 	DATA 	Trial 184 - Stimuli img/target_8.png
+700.8757 	DATA 	Keypress: i
+700.9589 	DATA 	Trial 185 - Stimuli img/target_1.png
+702.9959 	DATA 	Keypress: q
+703.0931 	DATA 	Trial 186 - Stimuli img/target_3.png
+707.7236 	DATA 	Keypress: e
+707.8099 	DATA 	Trial 187 - Stimuli img/target_7.png
+711.2515 	DATA 	Keypress: u
+711.3438 	DATA 	Trial 188 - Stimuli img/target_2.png
+714.8586 	DATA 	Keypress: w
+714.9439 	DATA 	Trial 189 - Stimuli img/target_6.png
+717.8112 	DATA 	Keypress: b
+717.8932 	DATA 	Trial 190 - Stimuli img/target_10.png
+720.5309 	DATA 	Keypress: p
+720.6277 	DATA 	Trial 191 - Stimuli img/target_5.png
+723.0191 	DATA 	Keypress: v
+723.1115 	DATA 	Trial 192 - Stimuli img/target_1.png
+724.2823 	DATA 	Keypress: q
+724.3772 	DATA 	Trial 193 - Stimuli img/target_10.png
+726.3543 	DATA 	Keypress: p
+726.4453 	DATA 	Trial 194 - Stimuli img/target_1.png
+727.4507 	DATA 	Keypress: q
+727.5455 	DATA 	Trial 195 - Stimuli img/target_10.png
+728.8188 	DATA 	Keypress: p
+728.9116 	DATA 	Trial 196 - Stimuli img/target_1.png
+730.1461 	DATA 	Keypress: q
+730.2278 	DATA 	Trial 197 - Stimuli img/target_8.png
+734.0585 	DATA 	Keypress: i
+734.1458 	DATA 	Trial 198 - Stimuli img/target_7.png
+735.6102 	DATA 	Keypress: u
+735.6961 	DATA 	Trial 199 - Stimuli img/target_3.png
+750.1701 	DATA 	Keypress: e
+750.2633 	DATA 	Trial 200 - Stimuli img/target_1.png
+752.9056 	DATA 	Keypress: q
+752.9979 	DATA 	Trial 201 - Stimuli img/target_3.png
+755.5862 	DATA 	Keypress: e
+755.6812 	DATA 	Trial 202 - Stimuli img/target_1.png
+757.0492 	DATA 	Keypress: q
+757.1309 	DATA 	Trial 203 - Stimuli img/target_5.png
+759.6419 	DATA 	Keypress: v
+759.7307 	DATA 	Trial 204 - Stimuli img/target_9.png
+763.4812 	DATA 	Keypress: o
+763.5656 	DATA 	Trial 205 - Stimuli img/target_5.png
+766.4411 	DATA 	Keypress: v
+766.5322 	DATA 	Trial 206 - Stimuli img/target_1.png
+770.8169 	DATA 	Keypress: q
+770.8995 	DATA 	Trial 207 - Stimuli img/target_8.png
+773.3287 	DATA 	Keypress: i
+773.4165 	DATA 	Trial 208 - Stimuli img/target_3.png
+778.8335 	DATA 	Keypress: e
+778.9166 	DATA 	Trial 209 - Stimuli img/target_4.png
+781.4005 	DATA 	Keypress: r
+781.4836 	DATA 	Trial 210 - Stimuli img/target_6.png
+783.9284 	DATA 	Keypress: b
+784.0176 	DATA 	Trial 211 - Stimuli img/target_2.png
+788.4171 	DATA 	Keypress: w
+788.5010 	DATA 	Trial 212 - Stimuli img/target_9.png
+789.6809 	DATA 	Keypress: v
+845.2785 	DATA 	Keypress: o
+845.3563 	DATA 	Trial 213 - Stimuli img/target_10.png
+850.4551 	DATA 	Keypress: p
+850.5408 	DATA 	Trial 214 - Stimuli img/target_6.png
+862.4860 	DATA 	Keypress: b
+862.5759 	DATA 	Trial 215 - Stimuli img/target_9.png
+872.1817 	DATA 	Keypress: o
+872.2761 	DATA 	Trial 216 - Stimuli img/target_10.png
+876.1902 	DATA 	Keypress: p
+876.2764 	DATA 	Trial 217 - Stimuli img/target_5.png
+878.0943 	DATA 	Keypress: v
+878.1933 	DATA 	Trial 218 - Stimuli img/target_8.png
+880.5661 	DATA 	Keypress: u
+883.4939 	DATA 	Keypress: i
+883.5611 	DATA 	Trial 219 - Stimuli img/target_5.png
+886.2853 	DATA 	Keypress: v
+886.3774 	DATA 	Trial 220 - Stimuli img/target_9.png
+889.5971 	DATA 	Keypress: o
+889.6773 	DATA 	Trial 221 - Stimuli img/target_2.png
+891.8458 	DATA 	Keypress: w
+891.9439 	DATA 	Trial 222 - Stimuli img/target_6.png
+894.4289 	DATA 	Keypress: b
+894.5120 	DATA 	Trial 223 - Stimuli img/target_10.png
+895.9734 	DATA 	Keypress: p
+896.0620 	DATA 	Trial 224 - Stimuli img/target_9.png
+897.4775 	DATA 	Keypress: o
+897.5617 	DATA 	Trial 225 - Stimuli img/target_6.png
+900.5735 	DATA 	Keypress: b
+900.6619 	DATA 	Trial 226 - Stimuli img/target_9.png
+903.0366 	DATA 	Keypress: i
+905.4774 	DATA 	Keypress: i
+906.6693 	DATA 	Keypress: i
+912.1570 	DATA 	Keypress: o
+912.2296 	DATA 	Trial 227 - Stimuli img/target_5.png
+916.7651 	DATA 	Keypress: v
+916.8640 	DATA 	Trial 228 - Stimuli img/target_8.png
+921.4128 	DATA 	Keypress: i
+921.4969 	DATA 	Trial 229 - Stimuli img/target_7.png
+922.8045 	DATA 	Keypress: u
+922.8978 	DATA 	Trial 230 - Stimuli img/target_4.png
+925.5088 	DATA 	Keypress: r
+925.5980 	DATA 	Trial 231 - Stimuli img/target_6.png
+927.9727 	DATA 	Keypress: b
+928.0648 	DATA 	Trial 232 - Stimuli img/target_4.png
+929.2847 	DATA 	Keypress: r
+929.3817 	DATA 	Trial 233 - Stimuli img/target_2.png
+931.7004 	DATA 	Keypress: w
+931.7979 	DATA 	Trial 234 - Stimuli img/target_7.png
+933.9963 	DATA 	Keypress: u
+934.0810 	DATA 	Trial 235 - Stimuli img/target_3.png
+937.3557 	DATA 	Keypress: e
+937.4490 	DATA 	Trial 236 - Stimuli img/target_8.png
+939.8035 	DATA 	Keypress: i
+939.8986 	DATA 	Trial 237 - Stimuli img/target_7.png
+942.6914 	DATA 	Keypress: u
+942.7826 	DATA 	Trial 238 - Stimuli img/target_4.png
+944.4434 	DATA 	Keypress: r
+944.5320 	DATA 	Trial 239 - Stimuli img/target_6.png
+946.9082 	DATA 	Keypress: b
+947.0000 	DATA 	Trial 240 - Stimuli img/target_10.png
+948.4679 	DATA 	Keypress: p
+948.5669 	DATA 	Trial 241 - Stimuli img/target_9.png
+950.1398 	DATA 	Keypress: o
+950.2328 	DATA 	Trial 242 - Stimuli img/target_5.png
+952.0430 	DATA 	Keypress: v
+952.1337 	DATA 	Trial 243 - Stimuli img/target_10.png
+953.2832 	DATA 	Keypress: p
+953.3674 	DATA 	Trial 244 - Stimuli img/target_9.png
+955.0191 	DATA 	Keypress: o
+955.1012 	DATA 	Trial 245 - Stimuli img/target_5.png
+956.7078 	DATA 	Keypress: v
+956.8001 	DATA 	Trial 246 - Stimuli img/target_9.png
+962.1156 	DATA 	Keypress: o
+962.2013 	DATA 	Trial 247 - Stimuli img/target_2.png
+965.6753 	DATA 	Keypress: w
+965.7677 	DATA 	Trial 248 - Stimuli img/target_4.png
+968.6105 	DATA 	Keypress: r
+968.7025 	DATA 	Trial 249 - Stimuli img/target_2.png
+970.5393 	DATA 	Keypress: w
+970.6358 	DATA 	Trial 250 - Stimuli img/target_7.png
+973.5944 	DATA 	Keypress: u
+990.6262 	DATA 	Keypress: space
+1031.1287 	DATA 	Keypress: space
+1031.1335 	DATA 	Trial 251 - Stimuli img/target_2.png
+1035.2884 	DATA 	Keypress: w
+1035.3754 	DATA 	Trial 252 - Stimuli img/target_9.png
+1036.5843 	DATA 	Keypress: o
+1036.6750 	DATA 	Trial 253 - Stimuli img/target_5.png
+1039.0092 	DATA 	Keypress: v
+1039.0923 	DATA 	Trial 254 - Stimuli img/target_8.png
+1040.8170 	DATA 	Keypress: u
+1043.5370 	DATA 	Keypress: i
+1043.6088 	DATA 	Trial 255 - Stimuli img/target_3.png
+1046.3688 	DATA 	Keypress: e
+1046.4600 	DATA 	Trial 256 - Stimuli img/target_8.png
+1047.6160 	DATA 	Keypress: i
+1047.7099 	DATA 	Trial 257 - Stimuli img/target_1.png
+1049.4484 	DATA 	Keypress: q
+1049.5424 	DATA 	Trial 258 - Stimuli img/target_5.png
+1052.5599 	DATA 	Keypress: v
+1052.6428 	DATA 	Trial 259 - Stimuli img/target_1.png
+1053.8567 	DATA 	Keypress: q
+1053.9440 	DATA 	Trial 260 - Stimuli img/target_5.png
+1054.8959 	DATA 	Keypress: v
+1054.9773 	DATA 	Trial 261 - Stimuli img/target_1.png
+1056.4077 	DATA 	Keypress: q
+1056.4941 	DATA 	Trial 262 - Stimuli img/target_3.png
+1058.4402 	DATA 	Keypress: w
+1063.1844 	DATA 	Keypress: e
+1063.2611 	DATA 	Trial 263 - Stimuli img/target_7.png
+1065.6803 	DATA 	Keypress: u
+1065.7773 	DATA 	Trial 264 - Stimuli img/target_2.png
+1068.8400 	DATA 	Keypress: w
+1068.9286 	DATA 	Trial 265 - Stimuli img/target_6.png
+1071.4320 	DATA 	Keypress: b
+1071.5291 	DATA 	Trial 266 - Stimuli img/target_9.png
+1072.8640 	DATA 	Keypress: o
+1072.9467 	DATA 	Trial 267 - Stimuli img/target_5.png
+1074.7511 	DATA 	Keypress: v
+1074.8456 	DATA 	Trial 268 - Stimuli img/target_9.png
+1076.0558 	DATA 	Keypress: o
+1076.1451 	DATA 	Trial 269 - Stimuli img/target_2.png
+1078.6079 	DATA 	Keypress: w
+1078.6963 	DATA 	Trial 270 - Stimuli img/target_6.png
+1080.9037 	DATA 	Keypress: b
+1080.9964 	DATA 	Trial 271 - Stimuli img/target_2.png
+1083.2149 	DATA 	Keypress: w
+1083.2965 	DATA 	Trial 272 - Stimuli img/target_9.png
+1085.0709 	DATA 	Keypress: o
+1085.1628 	DATA 	Trial 273 - Stimuli img/target_2.png
+1086.6237 	DATA 	Keypress: w
+1086.7141 	DATA 	Trial 274 - Stimuli img/target_6.png
+1088.5914 	DATA 	Keypress: b
+1088.6808 	DATA 	Trial 275 - Stimuli img/target_10.png
+1091.4868 	DATA 	Keypress: p
+1091.5810 	DATA 	Trial 276 - Stimuli img/target_1.png
+1094.3986 	DATA 	Keypress: q
+1094.4806 	DATA 	Trial 277 - Stimuli img/target_5.png
+1096.1185 	DATA 	Keypress: v
+1096.2147 	DATA 	Trial 278 - Stimuli img/target_8.png
+1099.5271 	DATA 	Keypress: i
+1099.6141 	DATA 	Trial 279 - Stimuli img/target_5.png
+1102.4951 	DATA 	Keypress: v
+1102.5822 	DATA 	Trial 280 - Stimuli img/target_1.png
+1104.0070 	DATA 	Keypress: q
+1104.0981 	DATA 	Trial 281 - Stimuli img/target_3.png
+1111.5741 	DATA 	Keypress: e
+1111.6662 	DATA 	Trial 282 - Stimuli img/target_8.png
+1113.4619 	DATA 	Keypress: i
+1113.5490 	DATA 	Trial 283 - Stimuli img/target_1.png
+1115.9825 	DATA 	Keypress: q
+1116.0664 	DATA 	Trial 284 - Stimuli img/target_10.png
+1120.1504 	DATA 	Keypress: p
+1120.2338 	DATA 	Trial 285 - Stimuli img/target_1.png
+1121.9577 	DATA 	Keypress: q
+1122.0508 	DATA 	Trial 286 - Stimuli img/target_5.png
+1125.4536 	DATA 	Keypress: v
+1125.5333 	DATA 	Trial 287 - Stimuli img/target_10.png
+1128.6382 	DATA 	Keypress: p
+1128.7349 	DATA 	Trial 288 - Stimuli img/target_1.png
+1129.6782 	DATA 	Keypress: q
+1129.7678 	DATA 	Trial 289 - Stimuli img/target_10.png
+1131.0777 	DATA 	Keypress: p
+1131.1670 	DATA 	Trial 290 - Stimuli img/target_9.png
+1132.7493 	DATA 	Keypress: o
+1132.8352 	DATA 	Trial 291 - Stimuli img/target_6.png
+1134.2534 	DATA 	Keypress: b
+1134.3344 	DATA 	Trial 292 - Stimuli img/target_4.png
+1136.8532 	DATA 	Keypress: v
+1139.6370 	DATA 	Keypress: r
+1139.7017 	DATA 	Trial 293 - Stimuli img/target_7.png
+1144.3329 	DATA 	Keypress: u
+1144.4192 	DATA 	Trial 294 - Stimuli img/target_3.png
+1158.9650 	DATA 	Keypress: r
+1169.9322 	DATA 	Keypress: e
+1170.0050 	DATA 	Trial 295 - Stimuli img/target_8.png
+1174.0124 	DATA 	Keypress: i
+1174.1059 	DATA 	Trial 296 - Stimuli img/target_3.png
+1175.8846 	DATA 	Keypress: e
+1175.9734 	DATA 	Trial 297 - Stimuli img/target_4.png
+1177.0199 	DATA 	Keypress: r
+1177.1064 	DATA 	Trial 298 - Stimuli img/target_2.png
+1178.3487 	DATA 	Keypress: w
+1178.4396 	DATA 	Trial 299 - Stimuli img/target_4.png
+1180.2998 	DATA 	Keypress: r
+1180.3888 	DATA 	Trial 300 - Stimuli img/target_6.png
+1198.4032 	DATA 	Keypress: b
+1198.4916 	DATA 	Trial 301 - Stimuli img/target_2.png
+1200.6039 	DATA 	Keypress: w
+1200.6912 	DATA 	Trial 302 - Stimuli img/target_9.png
+1202.2595 	DATA 	Keypress: o
+1202.3416 	DATA 	Trial 303 - Stimuli img/target_5.png
+1203.9314 	DATA 	Keypress: v
+1204.0253 	DATA 	Trial 304 - Stimuli img/target_9.png
+1205.2273 	DATA 	Keypress: o
+1205.3089 	DATA 	Trial 305 - Stimuli img/target_5.png
+1206.4189 	DATA 	Keypress: v
+1206.5089 	DATA 	Trial 306 - Stimuli img/target_10.png
+1208.0598 	DATA 	Keypress: p
+1208.1414 	DATA 	Trial 307 - Stimuli img/target_6.png
+1210.0517 	DATA 	Keypress: b
+1210.1426 	DATA 	Trial 308 - Stimuli img/target_9.png
+1211.8514 	DATA 	Keypress: o
+1211.9423 	DATA 	Trial 309 - Stimuli img/target_10.png
+1212.7954 	DATA 	Keypress: p
+1212.8752 	DATA 	Trial 310 - Stimuli img/target_6.png
+1214.0114 	DATA 	Keypress: b
+1214.1099 	DATA 	Trial 311 - Stimuli img/target_10.png
+1214.8267 	DATA 	Keypress: p
+1214.9100 	DATA 	Trial 312 - Stimuli img/target_9.png
+1216.0354 	DATA 	Keypress: o
+1216.1262 	DATA 	Trial 313 - Stimuli img/target_5.png
+1217.4193 	DATA 	Keypress: v
+1217.5099 	DATA 	Trial 314 - Stimuli img/target_10.png
+1219.1472 	DATA 	Keypress: p
+1219.2428 	DATA 	Trial 315 - Stimuli img/target_9.png
+1219.7714 	DATA 	Keypress: o
+1219.8608 	DATA 	Trial 316 - Stimuli img/target_5.png
+1220.7148 	DATA 	Keypress: v
+1220.8103 	DATA 	Trial 317 - Stimuli img/target_1.png
+1222.0831 	DATA 	Keypress: q
+1222.1760 	DATA 	Trial 318 - Stimuli img/target_10.png
+1223.2271 	DATA 	Keypress: p
+1223.3108 	DATA 	Trial 319 - Stimuli img/target_1.png
+1224.3223 	DATA 	Keypress: q
+1224.4106 	DATA 	Trial 320 - Stimuli img/target_5.png
+1225.6903 	DATA 	Keypress: v
+1225.7762 	DATA 	Trial 321 - Stimuli img/target_9.png
+1227.1550 	DATA 	Keypress: p
+1231.2902 	DATA 	Keypress: o
+1231.3608 	DATA 	Trial 322 - Stimuli img/target_6.png
+1235.6341 	DATA 	Keypress: b
+1235.7273 	DATA 	Trial 323 - Stimuli img/target_4.png
+1237.7948 	DATA 	Keypress: r
+1237.8787 	DATA 	Trial 324 - Stimuli img/target_3.png
+1238.8986 	DATA 	Keypress: e
+1238.9953 	DATA 	Trial 325 - Stimuli img/target_8.png
+1244.4104 	DATA 	Keypress: u
+1245.7386 	DATA 	Keypress: i
+1245.8118 	DATA 	Trial 326 - Stimuli img/target_3.png
+1247.5626 	DATA 	Keypress: r
+1249.4257 	DATA 	Keypress: e
+1249.4968 	DATA 	Trial 327 - Stimuli img/target_8.png
+1254.1535 	DATA 	Keypress: i
+1254.2469 	DATA 	Trial 328 - Stimuli img/target_1.png
+1255.5862 	DATA 	Keypress: q
+1255.6801 	DATA 	Trial 329 - Stimuli img/target_5.png
+1257.1057 	DATA 	Keypress: v
+1257.1973 	DATA 	Trial 330 - Stimuli img/target_10.png
+1258.7774 	DATA 	Keypress: p
+1258.8643 	DATA 	Trial 331 - Stimuli img/target_1.png
+1260.2419 	DATA 	Keypress: q
+1260.3309 	DATA 	Trial 332 - Stimuli img/target_10.png
+1261.1140 	DATA 	Keypress: p
+1261.1979 	DATA 	Trial 333 - Stimuli img/target_9.png
+1262.7378 	DATA 	Keypress: o
+1262.8312 	DATA 	Trial 334 - Stimuli img/target_2.png
+1268.5772 	DATA 	Keypress: w
+1268.6642 	DATA 	Trial 335 - Stimuli img/target_6.png
+1268.8738 	DATA 	Keypress: w
+1281.0013 	DATA 	Keypress: b
+1281.0825 	DATA 	Trial 336 - Stimuli img/target_10.png
+1282.6965 	DATA 	Keypress: p
+1282.7831 	DATA 	Trial 337 - Stimuli img/target_1.png
+1284.1205 	DATA 	Keypress: q
+1284.2168 	DATA 	Trial 338 - Stimuli img/target_8.png
+1290.6970 	DATA 	Keypress: i
+1290.7831 	DATA 	Trial 339 - Stimuli img/target_1.png
+1292.3523 	DATA 	Keypress: q
+1292.4334 	DATA 	Trial 340 - Stimuli img/target_5.png
+1295.3921 	DATA 	Keypress: v
+1295.4839 	DATA 	Trial 341 - Stimuli img/target_10.png
+1297.2880 	DATA 	Keypress: p
+1297.3845 	DATA 	Trial 342 - Stimuli img/target_6.png
+1306.9201 	DATA 	Keypress: b
+1307.0022 	DATA 	Trial 343 - Stimuli img/target_4.png
+1308.4006 	DATA 	Keypress: r
+1308.4855 	DATA 	Trial 344 - Stimuli img/target_7.png
+1309.8084 	DATA 	Keypress: u
+1309.9026 	DATA 	Trial 345 - Stimuli img/target_8.png
+1310.8721 	DATA 	Keypress: i
+1310.9680 	DATA 	Trial 346 - Stimuli img/target_5.png
+1312.1681 	DATA 	Keypress: v
+1312.2527 	DATA 	Trial 347 - Stimuli img/target_1.png
+1313.1604 	DATA 	Keypress: q
+1313.2529 	DATA 	Trial 348 - Stimuli img/target_5.png
+1314.8244 	DATA 	Keypress: v
+1314.9186 	DATA 	Trial 349 - Stimuli img/target_10.png
+1315.9354 	DATA 	Keypress: p
+1316.0195 	DATA 	Trial 350 - Stimuli img/target_5.png
+1318.1602 	DATA 	Keypress: v
+1318.2526 	DATA 	Trial 351 - Stimuli img/target_1.png
+1319.3353 	DATA 	Keypress: q
+1319.4209 	DATA 	Trial 352 - Stimuli img/target_3.png
+1322.1834 	DATA 	Keypress: w
+1325.5358 	DATA 	Keypress: e
+1325.6030 	DATA 	Trial 353 - Stimuli img/target_1.png
+1328.8479 	DATA 	Keypress: q
+1328.9381 	DATA 	Trial 354 - Stimuli img/target_8.png
+1331.6155 	DATA 	Keypress: i
+1331.7033 	DATA 	Trial 355 - Stimuli img/target_5.png
+1333.4637 	DATA 	Keypress: v
+1333.5548 	DATA 	Trial 356 - Stimuli img/target_1.png
+1334.9989 	DATA 	Keypress: q
+1335.0882 	DATA 	Trial 357 - Stimuli img/target_3.png
+1340.8314 	DATA 	Keypress: e
+1340.9222 	DATA 	Trial 358 - Stimuli img/target_1.png
+1342.0466 	DATA 	Keypress: q
+1342.1387 	DATA 	Trial 359 - Stimuli img/target_5.png
+1344.5913 	DATA 	Keypress: v
+1344.6881 	DATA 	Trial 360 - Stimuli img/target_1.png
+1346.1353 	DATA 	Keypress: q
+1346.2226 	DATA 	Trial 361 - Stimuli img/target_10.png
+1347.2633 	DATA 	Keypress: p
+1347.3560 	DATA 	Trial 362 - Stimuli img/target_1.png
+1348.6234 	DATA 	Keypress: q
+1348.7052 	DATA 	Trial 363 - Stimuli img/target_8.png
+1351.4631 	DATA 	Keypress: i
+1351.5563 	DATA 	Trial 364 - Stimuli img/target_5.png
+1352.5663 	DATA 	Keypress: v
+1352.6567 	DATA 	Trial 365 - Stimuli img/target_10.png
+1355.3269 	DATA 	Keypress: p
+1355.4231 	DATA 	Trial 366 - Stimuli img/target_6.png
+1357.0945 	DATA 	Keypress: b
+1357.1903 	DATA 	Trial 367 - Stimuli img/target_10.png
+1358.0868 	DATA 	Keypress: p
+1358.1739 	DATA 	Trial 368 - Stimuli img/target_1.png
+1360.8869 	DATA 	Keypress: q
+1360.9732 	DATA 	Trial 369 - Stimuli img/target_5.png
+1363.0220 	DATA 	Keypress: v
+1363.1076 	DATA 	Trial 370 - Stimuli img/target_10.png
+1364.5580 	DATA 	Keypress: p
+1364.6401 	DATA 	Trial 371 - Stimuli img/target_5.png
+1365.6388 	DATA 	Keypress: v
+1365.7234 	DATA 	Trial 372 - Stimuli img/target_10.png
+1366.4786 	DATA 	Keypress: p
+1366.5747 	DATA 	Trial 373 - Stimuli img/target_5.png
+1367.3103 	DATA 	Keypress: v
+1367.3906 	DATA 	Trial 374 - Stimuli img/target_9.png
+1369.2227 	DATA 	Keypress: p
+1370.5105 	DATA 	Keypress: o
+1370.5906 	DATA 	Trial 375 - Stimuli img/target_5.png
+1372.2137 	DATA 	Keypress: v
+1372.3080 	DATA 	Trial 376 - Stimuli img/target_10.png
+1374.2615 	DATA 	Keypress: p
+1374.3410 	DATA 	Trial 377 - Stimuli img/target_5.png
+1375.4135 	DATA 	Keypress: v
+1375.5087 	DATA 	Trial 378 - Stimuli img/target_9.png
+1377.6463 	DATA 	Keypress: o
+1377.7422 	DATA 	Trial 379 - Stimuli img/target_2.png
+1379.9494 	DATA 	Keypress: w
+1380.0427 	DATA 	Trial 380 - Stimuli img/target_7.png
+1382.3174 	DATA 	Keypress: u
+1382.4087 	DATA 	Trial 381 - Stimuli img/target_4.png
+1384.1733 	DATA 	Keypress: r
+1384.2601 	DATA 	Trial 382 - Stimuli img/target_3.png
+1385.6538 	DATA 	Keypress: e
+1385.7431 	DATA 	Trial 383 - Stimuli img/target_1.png
+1387.3092 	DATA 	Keypress: q
+1387.3934 	DATA 	Trial 384 - Stimuli img/target_5.png
+1389.4059 	DATA 	Keypress: v
+1389.4931 	DATA 	Trial 385 - Stimuli img/target_1.png
+1390.9657 	DATA 	Keypress: q
+1391.0602 	DATA 	Trial 386 - Stimuli img/target_10.png
+1392.3174 	DATA 	Keypress: p
+1392.4096 	DATA 	Trial 387 - Stimuli img/target_9.png
+1394.0697 	DATA 	Keypress: o
+1394.1606 	DATA 	Trial 388 - Stimuli img/target_2.png
+1396.1409 	DATA 	Keypress: w
+1396.2275 	DATA 	Trial 389 - Stimuli img/target_4.png
+1400.7408 	DATA 	Keypress: r
+1400.8278 	DATA 	Trial 390 - Stimuli img/target_6.png
+1402.9652 	DATA 	Keypress: b
+1403.0608 	DATA 	Trial 391 - Stimuli img/target_2.png
+1406.3574 	DATA 	Keypress: w
+1406.4442 	DATA 	Trial 392 - Stimuli img/target_6.png
+1408.1087 	DATA 	Keypress: v
+1409.5892 	DATA 	Keypress: b
+1409.6613 	DATA 	Trial 393 - Stimuli img/target_4.png
+1410.9494 	DATA 	Keypress: r
+1411.0458 	DATA 	Trial 394 - Stimuli img/target_3.png
+1411.7886 	DATA 	Keypress: e
+1411.8791 	DATA 	Trial 395 - Stimuli img/target_1.png
+1412.9563 	DATA 	Keypress: q
+1413.0459 	DATA 	Trial 396 - Stimuli img/target_8.png
+1417.9012 	DATA 	Keypress: i
+1417.9958 	DATA 	Trial 397 - Stimuli img/target_5.png
+1419.9721 	DATA 	Keypress: v
+1420.0635 	DATA 	Trial 398 - Stimuli img/target_9.png
+1421.3161 	DATA 	Keypress: o
+1421.3968 	DATA 	Trial 399 - Stimuli img/target_5.png
+1424.6440 	DATA 	Keypress: v
+1424.7297 	DATA 	Trial 400 - Stimuli img/target_8.png
+1426.3727 	DATA 	Keypress: i
+1426.4640 	DATA 	Trial 401 - Stimuli img/target_5.png
+1428.7807 	DATA 	Keypress: v
+1428.8637 	DATA 	Trial 402 - Stimuli img/target_1.png
+1430.0120 	DATA 	Keypress: q
+1430.0974 	DATA 	Trial 403 - Stimuli img/target_8.png
+1432.6917 	DATA 	Keypress: i
+1432.7810 	DATA 	Trial 404 - Stimuli img/target_3.png
+1436.0118 	DATA 	Keypress: e
+1436.0970 	DATA 	Trial 405 - Stimuli img/target_7.png
+1438.0525 	DATA 	Keypress: u
+1438.1484 	DATA 	Trial 406 - Stimuli img/target_2.png
+1440.9322 	DATA 	Keypress: w
+1441.0143 	DATA 	Trial 407 - Stimuli img/target_4.png
+1446.2113 	DATA 	Keypress: r
+1446.2980 	DATA 	Trial 408 - Stimuli img/target_6.png
+1447.9401 	DATA 	Keypress: b
+1448.0325 	DATA 	Trial 409 - Stimuli img/target_10.png
+1453.1951 	DATA 	Keypress: p
+1453.2832 	DATA 	Trial 410 - Stimuli img/target_1.png
+1454.6918 	DATA 	Keypress: q
+1454.7830 	DATA 	Trial 411 - Stimuli img/target_5.png
+1457.9150 	DATA 	Keypress: v
+1457.9994 	DATA 	Trial 412 - Stimuli img/target_1.png
+1459.6997 	DATA 	Keypress: q
+1459.7835 	DATA 	Trial 413 - Stimuli img/target_8.png
+1461.2358 	DATA 	Keypress: i
+1461.3337 	DATA 	Trial 414 - Stimuli img/target_1.png
+1465.2034 	DATA 	Keypress: q
+1465.3010 	DATA 	Trial 415 - Stimuli img/target_3.png
+1467.2107 	DATA 	Keypress: e
+1467.3012 	DATA 	Trial 416 - Stimuli img/target_1.png
+1471.8272 	DATA 	Keypress: q
+1471.9175 	DATA 	Trial 417 - Stimuli img/target_3.png
+1476.7633 	DATA 	Keypress: e
+1476.8521 	DATA 	Trial 418 - Stimuli img/target_7.png
+1485.5469 	DATA 	Keypress: u
+1485.6363 	DATA 	Trial 419 - Stimuli img/target_4.png
+1493.2427 	DATA 	Keypress: r
+1493.3372 	DATA 	Trial 420 - Stimuli img/target_3.png
+1495.2184 	DATA 	Keypress: e
+1495.3038 	DATA 	Trial 421 - Stimuli img/target_4.png
+1499.4025 	DATA 	Keypress: r
+1499.4873 	DATA 	Trial 422 - Stimuli img/target_6.png
+1505.6414 	DATA 	Keypress: b
+1505.7206 	DATA 	Trial 423 - Stimuli img/target_9.png
+1509.4654 	DATA 	Keypress: o
+1509.5544 	DATA 	Trial 424 - Stimuli img/target_5.png
+1511.4019 	DATA 	Keypress: v
+1511.4879 	DATA 	Trial 425 - Stimuli img/target_9.png
+1512.4578 	DATA 	Keypress: o
+1512.5546 	DATA 	Trial 426 - Stimuli img/target_2.png
+1514.4015 	DATA 	Keypress: w
+1514.4892 	DATA 	Trial 427 - Stimuli img/target_6.png
+1517.2019 	DATA 	Keypress: b
+1517.2884 	DATA 	Trial 428 - Stimuli img/target_9.png
+1519.4739 	DATA 	Keypress: o
+1519.5720 	DATA 	Trial 429 - Stimuli img/target_2.png
+1520.8169 	DATA 	Keypress: w
+1520.9063 	DATA 	Trial 430 - Stimuli img/target_4.png
+1523.2897 	DATA 	Keypress: r
+1523.3723 	DATA 	Trial 431 - Stimuli img/target_6.png
+1524.3455 	DATA 	Keypress: b
+1524.4401 	DATA 	Trial 432 - Stimuli img/target_10.png
+1525.9614 	DATA 	Keypress: o
+1537.9125 	DATA 	Keypress: o
+1538.7131 	DATA 	Keypress: o
+1544.6244 	DATA 	Keypress: p
+1544.6927 	DATA 	Trial 433 - Stimuli img/target_9.png
+1548.1769 	DATA 	Keypress: o
+1548.2580 	DATA 	Trial 434 - Stimuli img/target_5.png
+1550.6089 	DATA 	Keypress: v
+1550.6918 	DATA 	Trial 435 - Stimuli img/target_9.png
+1554.7679 	DATA 	Keypress: o
+1554.8590 	DATA 	Trial 436 - Stimuli img/target_10.png
+1559.8646 	DATA 	Keypress: p
+1559.9605 	DATA 	Trial 437 - Stimuli img/target_9.png
+1561.3363 	DATA 	Keypress: o
+1561.4269 	DATA 	Trial 438 - Stimuli img/target_6.png
+1563.5363 	DATA 	Keypress: b
+1563.6263 	DATA 	Trial 439 - Stimuli img/target_2.png
+1565.2075 	DATA 	Keypress: w
+1565.2942 	DATA 	Trial 440 - Stimuli img/target_7.png
+1566.5755 	DATA 	Keypress: u
+1566.6608 	DATA 	Trial 441 - Stimuli img/target_2.png
+1568.1681 	DATA 	Keypress: w
+1568.2611 	DATA 	Trial 442 - Stimuli img/target_4.png
+1570.2962 	DATA 	Keypress: v
+1572.6318 	DATA 	Keypress: r
+1572.7107 	DATA 	Trial 443 - Stimuli img/target_3.png
+1576.1512 	DATA 	Keypress: e
+1576.2442 	DATA 	Trial 444 - Stimuli img/target_7.png
+1580.8870 	DATA 	Keypress: u
+1580.9781 	DATA 	Trial 445 - Stimuli img/target_4.png
+1582.5196 	DATA 	Keypress: r
+1582.6125 	DATA 	Trial 446 - Stimuli img/target_7.png
+1583.5276 	DATA 	Keypress: u
+1583.6117 	DATA 	Trial 447 - Stimuli img/target_8.png
+1585.5358 	DATA 	Keypress: i
+1585.6294 	DATA 	Trial 448 - Stimuli img/target_1.png
+1586.9916 	DATA 	Keypress: q
+1587.0787 	DATA 	Trial 449 - Stimuli img/target_3.png
+1590.1428 	DATA 	Keypress: space
+1592.0066 	DATA 	Keypress: e
+1592.0792 	DATA 	Trial 450 - Stimuli img/target_4.png
+1594.8634 	DATA 	Keypress: v
+1597.9754 	DATA 	Keypress: r
+1598.0478 	DATA 	Trial 451 - Stimuli img/target_3.png
+1599.9431 	DATA 	Keypress: e
+1600.0310 	DATA 	Trial 452 - Stimuli img/target_8.png
+1604.5023 	DATA 	Keypress: i
+1604.5981 	DATA 	Trial 453 - Stimuli img/target_3.png
+1607.2782 	DATA 	Keypress: e
+1607.3653 	DATA 	Trial 454 - Stimuli img/target_1.png
+1608.7752 	DATA 	Keypress: q
+1608.8639 	DATA 	Trial 455 - Stimuli img/target_5.png
+1611.7669 	DATA 	Keypress: v
+1611.8643 	DATA 	Trial 456 - Stimuli img/target_9.png
+1615.4627 	DATA 	Keypress: i
+1616.5427 	DATA 	Keypress: o
+1616.6147 	DATA 	Trial 457 - Stimuli img/target_5.png
+1619.6702 	DATA 	Keypress: v
+1619.7651 	DATA 	Trial 458 - Stimuli img/target_8.png
+1622.7658 	DATA 	Keypress: i
+1622.8486 	DATA 	Trial 459 - Stimuli img/target_7.png
+1623.7421 	DATA 	Keypress: u
+1623.8321 	DATA 	Trial 460 - Stimuli img/target_2.png
+1625.4064 	DATA 	Keypress: w
+1625.5001 	DATA 	Trial 461 - Stimuli img/target_4.png
+1628.5825 	DATA 	Keypress: r
+1628.6670 	DATA 	Trial 462 - Stimuli img/target_3.png
+1630.0863 	DATA 	Keypress: e
+1630.1828 	DATA 	Trial 463 - Stimuli img/target_7.png
+1632.1334 	DATA 	Keypress: u
+1632.2169 	DATA 	Trial 464 - Stimuli img/target_3.png
+1633.9662 	DATA 	Keypress: r
+1636.4134 	DATA 	Keypress: e
+1636.4835 	DATA 	Trial 465 - Stimuli img/target_1.png
+1637.9011 	DATA 	Keypress: q
+1637.9844 	DATA 	Trial 466 - Stimuli img/target_8.png
+1644.0134 	DATA 	Keypress: i
+1644.1019 	DATA 	Trial 467 - Stimuli img/target_5.png
+1645.9250 	DATA 	Keypress: v
+1646.0190 	DATA 	Trial 468 - Stimuli img/target_10.png
+1648.4136 	DATA 	Keypress: p
+1648.5013 	DATA 	Trial 469 - Stimuli img/target_6.png
+1651.2928 	DATA 	Keypress: b
+1651.3848 	DATA 	Trial 470 - Stimuli img/target_9.png
+1654.7894 	DATA 	Keypress: o
+1654.8854 	DATA 	Trial 471 - Stimuli img/target_5.png
+1656.9575 	DATA 	Keypress: v
+1657.0597 	DATA 	Trial 472 - Stimuli img/target_1.png
+1658.6287 	DATA 	Keypress: q
+1658.7200 	DATA 	Trial 473 - Stimuli img/target_5.png
+1660.2373 	DATA 	Keypress: v
+1660.3193 	DATA 	Trial 474 - Stimuli img/target_10.png
+1662.4853 	DATA 	Keypress: p
+1662.5701 	DATA 	Trial 475 - Stimuli img/target_6.png
+1665.0284 	DATA 	Keypress: b
+1665.1208 	DATA 	Trial 476 - Stimuli img/target_10.png
+1666.7812 	DATA 	Keypress: p
+1666.8708 	DATA 	Trial 477 - Stimuli img/target_9.png
+1668.2048 	DATA 	Keypress: o
+1668.3032 	DATA 	Trial 478 - Stimuli img/target_6.png
+1669.7250 	DATA 	Keypress: b
+1669.8210 	DATA 	Trial 479 - Stimuli img/target_4.png
+1672.4770 	DATA 	Keypress: r
+1672.5711 	DATA 	Trial 480 - Stimuli img/target_6.png
+1674.2280 	DATA 	Keypress: b
+1674.3214 	DATA 	Trial 481 - Stimuli img/target_4.png
+1675.5880 	DATA 	Keypress: r
+1675.6717 	DATA 	Trial 482 - Stimuli img/target_7.png
+1676.8283 	DATA 	Keypress: u
+1676.9205 	DATA 	Trial 483 - Stimuli img/target_4.png
+1678.4121 	DATA 	Keypress: b
+1680.1088 	DATA 	Keypress: r
+1680.1878 	DATA 	Trial 484 - Stimuli img/target_2.png
+1683.5166 	DATA 	Keypress: w
+1683.6058 	DATA 	Trial 485 - Stimuli img/target_6.png
+1685.8285 	DATA 	Keypress: b
+1685.9216 	DATA 	Trial 486 - Stimuli img/target_2.png
+1688.8436 	DATA 	Keypress: w
+1688.9397 	DATA 	Trial 487 - Stimuli img/target_9.png
+1690.4756 	DATA 	Keypress: o
+1690.5557 	DATA 	Trial 488 - Stimuli img/target_6.png
+1691.7560 	DATA 	Keypress: b
+1691.8393 	DATA 	Trial 489 - Stimuli img/target_4.png
+1693.7395 	DATA 	Keypress: v
+1695.7561 	DATA 	Keypress: r
+1695.8239 	DATA 	Trial 490 - Stimuli img/target_7.png
+1701.4434 	DATA 	Keypress: b
+1706.7391 	DATA 	Keypress: u
+1706.8076 	DATA 	Trial 491 - Stimuli img/target_8.png
+1710.2036 	DATA 	Keypress: i
+1710.2917 	DATA 	Trial 492 - Stimuli img/target_5.png
+1712.6517 	DATA 	Keypress: v
+1712.7420 	DATA 	Trial 493 - Stimuli img/target_1.png
+1716.4908 	DATA 	Keypress: q
+1716.5757 	DATA 	Trial 494 - Stimuli img/target_3.png
+1718.9314 	DATA 	Keypress: e
+1719.0247 	DATA 	Trial 495 - Stimuli img/target_4.png
+1723.2433 	DATA 	Keypress: r
+1723.3253 	DATA 	Trial 496 - Stimuli img/target_3.png
+1726.4753 	DATA 	Keypress: e
+1726.5596 	DATA 	Trial 497 - Stimuli img/target_4.png
+1727.8431 	DATA 	Keypress: r
+1727.9258 	DATA 	Trial 498 - Stimuli img/target_3.png
+1728.8591 	DATA 	Keypress: e
+1728.9424 	DATA 	Trial 499 - Stimuli img/target_4.png
+1729.7224 	DATA 	Keypress: r
+1729.8103 	DATA 	Trial 500 - Stimuli img/target_2.png
+1731.1230 	DATA 	Keypress: w
+1737.2585 	DATA 	Keypress: b
+1766.1931 	DATA 	Keypress: escape
+1766.1971 	DATA 	Trial 501 - Stimuli img/target_7.png
+1767.3288 	DATA 	Keypress: escape
