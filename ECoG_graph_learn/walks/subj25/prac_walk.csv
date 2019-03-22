@@ -1,0 +1,11 @@
+pID,trialNum,walk,respR,respL,path
+25,1,1,"['space', 'semicolon']","['a', 'space']",img/target_9.png
+25,2,2,"['k', 'l']","['d', 'f']",img/target_13.png
+25,3,3,"['j', 'k']","['s', 'd']",img/target_10.png
+25,4,4,"['space', 'k']","['a', 'd']",img/target_7.png
+25,5,5,"['space', 'l']","['a', 'f']",img/target_8.png
+25,6,6,"['l', 'semicolon']","['f', 'space']",img/target_15.png
+25,7,7,"['space', 'j']","['a', 's']",img/target_6.png
+25,8,8,"['k', 'semicolon']","['d', 'space']",img/target_14.png
+25,9,9,"['j', 'semicolon']","['s', 'space']",img/target_12.png
+25,10,10,"['j', 'l']","['s', 'f']",img/target_11.png
