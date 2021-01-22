@@ -1,0 +1,31 @@
+{
+  "name": "statistical-learning",
+  "version": "1.0.0",
+  "description": "MTurk Statistical Learning",
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/polyfill": "^7.0.0",
+    "@babel/preset-env": "^7.1.0",
+    "browserify": "latest",
+    "eslint": "^5.6.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "gulp": "^4.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
+    "pako": "^1.0.6"
+  },
+  "dependencies": {},
+  "scripts": {
+    "gulp": "gulp",
+    "copy-babel-polyfill": "cp node_modules/@babel/polyfill/dist/polyfill.min.js experiment/static/js/dist/",
+    "copy-pako": "cp node_modules/pako/dist/pako.min.js experiment/static/js/dist/",
+    "copy": "mkdir -p experiment/static/js/dist && npm run copy-babel-polyfill && npm run copy-pako",
+    "build": "npm run copy && gulp"
+  },
+  "author": "Ari Kahn",
+  "heroku-run-build-script": true
+}

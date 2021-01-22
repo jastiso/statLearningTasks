@@ -1,0 +1,58 @@
+<head>
+<link rel="stylesheet" type="text/css" href="static/css/results_style.css">
+<script type="text/javascript" src="static/lib/jquery-min.js"></script>
+<!-- <script type="text/javascript" src="static/js/results.js"></script> -->
+</head>
+
+<a href="view_walk_1">Exposure (All)</a>
+<a href="view_walk_2">Test (All)</a>
+
+<table id="personDataTable">
+    <tr>
+        <th>Unique Id</th>
+        <th>Exposure</th>
+        <th>completed</th>
+        <th>bonus</th>
+        <th>exposure</th>
+        <th>graph</th>
+        <th>cond</th>
+        <th>counterbalance</th>
+        <th>assignmentId</th>
+        <th>workerId</th>
+        <th>hitId</th>
+        <th>beginhit</th>
+        <th>beginexp</th>
+        <th>endhit</th>
+        <th>codeversion</th>
+        <!--<th>walkname</th>-->
+        <!--<th>walkdate</th>-->
+        <th>ipaddress</th>
+        <th>platform</th>
+        <th>browser</th>
+    </tr>
+    {% for person in participants: %}
+    <tr>
+        <td>{{ person.uniqueid }}</td>
+        <td><a href=/view_walk_1?uniqueId={{person.uniqueid}}>Exposure</a></td>
+        <td>{{ person.completed }}</td>
+        <td>{{ person.bonus }}</td>
+        <td>{{ person.exposure_completed }}</td>
+        <td>{{ person.graph_type }}</td>
+        <td>{{ person.cond }}</td>
+        <td>{{ person.counterbalance }}</td>
+        <td>{{ person.assignmentid }}</td>
+        <td>{{ person.workerid }}</td>
+        <td>{{ person.hitid }}</td>
+        <td>{{ person.beginhit }}</td>
+        <td>{{ person.beginexp }}</td>
+        <td>{{ person.endhit }}</td>
+        <td>{{ person.codeversion }}</td>
+        <!--<td>{{ person.walk_name }}</td>-->
+        <!--<td>{{ person.walk_date }}</td>-->
+        <td>{{ person.ipaddress }} </td>
+        <td>{{ person.platform }}</td>
+        <td>{{ person.browser }}</td>
+    </tr>
+    {% endfor %}
+
+</table>

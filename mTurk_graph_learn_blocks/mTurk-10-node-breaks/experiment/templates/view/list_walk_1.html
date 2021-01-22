@@ -1,0 +1,21 @@
+<head>
+<link rel="stylesheet" type="text/css" href="static/css/results_style.css">
+<script type="text/javascript" src="static/lib/jquery-min.js"></script>
+<!-- <script type="text/javascript" src="static/js/results.js"></script> -->
+</head>
+
+<a href=/view_participants>Show Participants</a>
+<br>
+<a href="/view_walk_1">Show All Records</a>
+<br>
+{% for id in id_list: %}
+<a href="/view_walk_1?uniqueId={{ id }}">{{ id }}</a>
+<br>
+{% endfor %}
+<a href="/view_walk_1?to_csv">Download CSV</a>
+
+<table id="personDataTable">
+
+{{data | safe}}
+
+</table>

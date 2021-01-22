@@ -1,0 +1,197 @@
+
+body {
+    padding:0px;
+    margin: 0px;
+    background-color: white;
+    color: black;
+    font-weight: 300;
+    font-size: 13pt;
+}
+
+
+/* text styling */
+strong {
+  font-weight: 600;
+}
+
+.warm {
+  color: steelblue;
+  text-align: justify;
+}
+
+.cool {
+  color: #ccccff;
+}
+
+h1 {
+  margin-top: 0px;
+}
+
+
+/* these are all the same for now, but easy to modify individually */
+#container-not-an-ad, #container-error, #container-exp, #container-consent, #container-instructions, #container-questionnaire {
+    background: white;
+    margin: 30px;
+}
+
+#container-exp, #container-wait {
+  background: black;
+  margin: 30px;
+}
+
+/* ad.html  - the ad that people view first */
+#adlogo {
+    width: 140px;
+    padding: 2px;
+    border: 1px solid #ccc;
+    margin-right: 1em;
+}
+
+/* consent.html - the consent form */
+#consent {
+  margin: 0 auto;
+  margin-top: 0;
+  width: 800px;
+  font-size: 100%;
+}
+
+.legal {
+  text-align: center;
+  font-size: 11pt;
+  line-height: 1.1em;
+}
+
+#trial {
+  margin: 0 auto;
+  width: 950px;
+  text-align: center;
+  color: black;
+}
+
+#query {
+  color: darkgray;
+}
+
+.question {
+  margin-bottom: 30px;
+}
+
+/* errors */
+#error img {
+  padding-right: 10px;
+  padding-top: 15px;
+}
+
+/* CUSTOM STUFF */
+
+#container-consent, #container-exp {  /* override padding to fit long consent forms and exp display*/
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 1%;
+}
+
+.target-wrapper {
+    overflow: hidden;
+    /*make sure the wrapper has no dimension*/
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: black;
+}
+
+.invisible.target {
+  border-color: white;
+}
+
+.red.target {
+    border-color: red;
+}
+.greenyellow.target {
+    border-color: greenyellow;
+}
+.green.target {
+    border-color: green;
+}
+.magenta.target {
+    border-color: magenta;
+}
+.cyan.target {
+    border-color: cyan;
+}
+.yellow.target {
+    border-color: yellow;
+}
+.raised.target {
+  margin: 200px 10px 80px 10px;
+}
+.target {
+    width: 78px;
+    height: 78px;
+    border: 10px solid black;
+    display: inline-block;
+    margin: 200px 10px 10px 10px;
+    border-radius: 10px;
+    background: white;
+}
+/*.target-notice {
+  text-align: center;
+  color: black;
+  font-size: 30pt;
+  font-weight: bold;
+  padding-top: 50px;
+}*/
+.target-error {
+  text-align: center;
+  color: rgb(247, 0, 0);
+  font-size: 30pt;
+  font-weight: bold;
+  padding-top: 0px;
+  background: black;
+}
+
+.target-instructions {
+  text-align: center;
+  color: white;
+  font-size: 30pt;
+  font-weight: bold;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background:black;
+}
+
+.point-tracker {
+  text-align: center;
+  color: white;
+  font-size: 30pt;
+  font-weight: normal;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background: black;
+}
+
+.block-switch {
+  text-align: center;
+  color: white;
+  font-size: 30pt;
+  font-weight: bold;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.gen-text {
+  text-align: center;
+  color: white;
+  font-size: 20pt;
+  font-weight: normal;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.score {
+  text-align: center;
+  color: rgb(0, 255, 0);
+  font-size: 40pt;
+  font-weight: normal;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
